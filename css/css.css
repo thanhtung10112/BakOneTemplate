@@ -1,0 +1,85 @@
+body{
+    margin:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.row {
+    float: left;
+    width: 100%
+}
+
+.logo{
+    float: left;
+    margin-top: 30px;
+    min-height: 90px;
+}
+.logo img {
+    width: 45%;
+    height: auto;
+    margin-left: 100px
+}
+.bakone { 
+    margin-left:30px; 
+    float: left;
+    margin-top: 20px;
+    line-height: 1px;
+    color: #444444;
+}
+.bakone span{
+    font-size: 30px;
+}
+
+.demo{
+    min-height: 656px;
+}
+
+header {
+    background-image: url(banner.jpg);
+    background-size: 100%;
+}
+
+.menu2 {
+    float: left;
+    margin-top: -58px;
+    margin-left: 500px;
+    overflow: hidden;
+  
+}
+.menu2 ul {
+   
+    list-style-type: none; 
+}
+.menu2 ul li {
+    display: inline-table;
+}
+
+.menu2 ul li a  {
+    padding: 10px 20px;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 5px 15px;
+    color: #444444;
+    letter-spacing: 5px;
+}
+.menu2 ul li a:hover{
+     background-color: #1bbc9b;
+     
+     color: #EEEBEB; 
+}
+.menu2 ul li a.home  {
+    background-color: #1bbc9b;
+    color: #EEEBEB;
+}
+
+.txtbanner{
+    width: 70%;
+    margin: 0 auto;
+    min-height: 300px;
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.txtbanner p a  {
+     
+}
+
